@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724950148 source:h:\cpp\data structures and algorithms\1- essential_concepts\8-array_as_parameter\dynamicmemoryexample.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

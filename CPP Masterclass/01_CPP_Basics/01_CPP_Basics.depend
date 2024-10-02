@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1715643134 source:h:\cpp\01-cpp_basics\01_cpp_basics\02. size_data_types.cpp
+	<iostream>
+
+1715643732 source:h:\cpp\01-cpp_basics\01_cpp_basics\03. recarea.cpp
+	<iostream>
+
+1715718742 source:h:\cpp\01_cpp_basics\04. sumoffirstn_numbers.cpp
+	<iostream>
+
+1715719416 source:h:\cpp\01_cpp_basics\05. finding-roots-of-quadratic-equations.cpp
+	<iostream>
+	<cmath>
+
+1715719806 source:h:\cpp\01_cpp_basics\06. circlearea.cpp
+	<iostream>
+
+1715730127 source:h:\cpp\01_cpp_basics\12. calculate_net_salary.cpp
+	<iostream>
+

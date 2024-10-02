@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724520271 source:h:\cpp\data structures and algorithms\1- essential_concepts\5-pointer_to_structure\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

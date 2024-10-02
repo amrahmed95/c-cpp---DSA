@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1715730809 source:h:\cpp\02_conditional_statements\01.max_of_2numbers.cpp
+	<iostream>
+
+1715731134 source:h:\cpp\02_conditional_statements\02.validation.cpp
+	<iostream>
+
+1715731425 source:h:\cpp\02_conditional_statements\03.compoundconditionalstatement.cpp
+	<iostream>
+
+1715731626 source:h:\cpp\02_conditional_statements\04.compoundcs2.cpp
+	<iostream>
+
+1715813405 source:h:\cpp\02_conditional_statements\05.maxof3.cpp
+	<iostream>
+
+1715814523 source:h:\cpp\02_conditional_statements\07.displaygrades.cpp
+	<iostream>
+
+1715817934 source:h:\cpp\02_conditional_statements\10.switchcase.cpp
+	<iostream>
+
+1715819010 source:h:\cpp\02_conditional_statements\11.billamount.cpp
+	<iostream>
+

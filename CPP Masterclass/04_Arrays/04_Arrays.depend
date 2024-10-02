@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716339016 source:h:\cpp\04_arrays\04.linear_search.cpp
+	<iostream>
+
+1716341000 source:h:\cpp\04_arrays\05.binary_search.cpp
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716247839 source:h:\cpp\03_loops\04.factorsofnumber.cpp
+	<iostream>
+
+1716249491 source:h:\cpp\03_loops\06.armstrong.cpp
+	<iostream>
+
+1716251114 source:h:\cpp\03_loops\08.gdc_of_2numbers.cpp
+	<iostream>
+
