@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729434008 source:h:\cpp\data structures and algorithms\3- arrays representations\1-static-dyn-array.cpp\main.cpp
+	<iostream>
+
+1729434781 source:h:\cpp\data structures and algorithms\3- arrays representations\array representation\2-increase_array-size.cpp
+	<iostream>
+	<stdio.h>
+

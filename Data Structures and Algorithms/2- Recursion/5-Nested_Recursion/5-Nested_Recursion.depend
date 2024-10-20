@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728671203 source:h:\cpp\data structures and algorithms\2- recursion\5-nested_recursion\main.cpp
+	<iostream>
+	<stdio.h>
+
