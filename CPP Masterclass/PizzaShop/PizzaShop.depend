@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728942797 source:h:\cpp\cpp masterclass\pizzashop\pizza_refactored.cpp
+	<iostream>
+
+1728945339 source:h:\cpp\cpp masterclass\pizzashop\pizzashop_oop.cpp
+	<iostream>
+
