@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1730154706 source:h:\cpp\data structures and algorithms\5- linkedlist\2_recursivefunction_display_linkedlist.cpp
+	<iostream>
+	<stdio.h>
+
+1730215552 source:h:\cpp\data structures and algorithms\5- linkedlist\3_count_sum.cpp
+	<iostream>
+	<stdio.h>
+
+1730218147 source:h:\cpp\data structures and algorithms\5- linkedlist\5.1_linearsearch_improved_movetohead.cpp
+	<iostream>
+	<stdio.h>
+
+1730508702 source:h:\cpp\data structures and algorithms\5- linkedlist\singlelinearlinkedlist.cpp
+	<iostream>
+	<stdio.h>
+
+1730585390 source:h:\cpp\data structures and algorithms\5- linkedlist\singlelinearlinkedlist_ops.cpp
+	<iostream>
+	<stdio.h>
+
+1730587525 source:h:\cpp\data structures and algorithms\5- linkedlist\linkedlist_class.cpp
+	<iostream>
+	<stdio.h>
+
+1730591825 source:h:\cpp\data structures and algorithms\5- linkedlist\4_circularlinkedlist.cpp
+	<stdio.h>
+	<stdlib.h>
+
