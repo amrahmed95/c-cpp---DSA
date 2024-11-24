@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1731903236 source:h:\cpp\data structures and algorithms\12- sortingtechniques\4_quick-sort.cpp
+	<iostream>
+	<stdio.h>
+	<limits.h>
+
+1731909779 source:h:\cpp\data structures and algorithms\12- sortingtechniques\5_iterative-merge-sort.cpp
+	<iostream>
+	<stdio.h>
+
+1731915905 source:h:\cpp\data structures and algorithms\12- sortingtechniques\6_count-sort.cpp
+	<iostream>
+	<stdio.h>
+	<limits.h>
+
+1731977197 source:h:\cpp\data structures and algorithms\12- sortingtechniques\7_shell-sort.cpp
+	<iostream>
+	<stdio.h>
+
+1731978802 source:h:\cpp\data structures and algorithms\12- sortingtechniques\7_bin-sort.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1731979075 source:h:\cpp\data structures and algorithms\12- sortingtechniques\8_radix-sort.cpp
+	<iostream>
+	<cmath>
+
