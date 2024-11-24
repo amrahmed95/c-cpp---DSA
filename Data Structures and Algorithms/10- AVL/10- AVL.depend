@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731461434 source:h:\cpp\data structures and algorithms\10- avl\main.cpp
+	<iostream>
+	<stdio.h>
+
