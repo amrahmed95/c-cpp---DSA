@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732490892 source:h:\cpp\data structures and algorithms\4- array adt\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
