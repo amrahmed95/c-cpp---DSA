@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1731387703 source:h:\cpp\data structures and algorithms\8- trees\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1731388390 source:h:\cpp\data structures and algorithms\8- trees\1_ binarytree.cpp
+	<iostream>
+	<stdio.h>
+
+1731387703 h:\cpp\data structures and algorithms\8- trees\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1731387240 source:h:\cpp\data structures and algorithms\8- trees\queue.c
+	"Queue.h"
+
+1731391712 source:h:\cpp\data structures and algorithms\8- trees\2_ treecpp.cpp
+	<iostream>
+	<stdio.h>
+
+1731400087 source:h:\cpp\data structures and algorithms\8- trees\3_ iterative_traversals.cpp
+	<iostream>
+	<stdio.h>
+
+1731405425 source:h:\cpp\data structures and algorithms\8- trees\4_generatingtreefromtraversalc.cpp
+	<iostream>
+	<queue>
+	<stack>
+
