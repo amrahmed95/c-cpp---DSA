@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1731414566 source:h:\cpp\data structures and algorithms\9- bst\1_bst.cpp
+	<iostream>
+	<stdio.h>
+
+1731420538 source:h:\cpp\data structures and algorithms\9- bst\1_bstinsertinorder-search.cpp
+	<iostream>
+	<stdio.h>
+
